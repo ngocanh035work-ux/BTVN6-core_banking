@@ -18,7 +18,14 @@ Câu 6: <img width="1882" height="1370" alt="image" src="https://github.com/user
 
 Câu 7: <img width="1882" height="1370" alt="image" src="https://github.com/user-attachments/assets/6386319c-f871-4b1b-b56b-71dcb156786d" />
 
-Câu 8: <img width="1618" height="1034" alt="image" src="https://github.com/user-attachments/assets/7c65f123-92b9-4e34-b5b4-c8cc261ec9c5" /><img width="1618" height="1034" alt="image" src="https://github.com/user-attachments/assets/ad68b859-8042-4e74-9602-4432928df631" />
+Câu 8:
+<div style="display: flex; gap: 10px;">
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/a91ef4e1-ae4b-4b53-b150-2ce6bf695bff" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/7f3c496c-5351-4e5c-b6c9-5fe8747134fa" />
+</div>
+
+
+
 Câu 9: <img width="1882" height="1230" alt="image" src="https://github.com/user-attachments/assets/3bfd7bcb-b34a-4229-872a-f686dd5997e2" />
 
 Câu 10: <img width="1882" height="1230" alt="image" src="https://github.com/user-attachments/assets/b93b2f25-5116-498b-bc7f-fe6f13514325" />
