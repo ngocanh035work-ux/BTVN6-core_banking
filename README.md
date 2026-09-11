@@ -20,7 +20,7 @@ Câu 7: <img width="1882" height="1370" alt="image" src="https://github.com/user
 
 Câu 8:
 <div style="display: flex; gap: 10px;">
-  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/a91ef4e1-ae4b-4b53-b150-2ce6bf695bff" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/24935fdb-a916-4b82-9c08-127e5346e401" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/7f3c496c-5351-4e5c-b6c9-5fe8747134fa" />
 </div>
 
